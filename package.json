@@ -14,13 +14,16 @@
     "@fortawesome/react-fontawesome": "^0.1.18",
     "@icon/ionicons": "^5.4.0-alpha.0",
     "express": "^4.18.2",
-    "next": "12.1.6",
+    "next": "^14.1.0",
+    "next-google-fonts": "^2.2.0",
     "react": "^18.1.0",
     "react-copy-to-clipboard": "^5.1.0",
     "react-dom": "18.1.0",
     "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
+    "@swc/cli": "^0.3.10",
+    "@swc/core": "^1.4.2",
     "autoprefixer": "^10.4.7",
     "eslint": "8.17.0",
     "eslint-config-next": "12.1.6",

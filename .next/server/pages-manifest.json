@@ -2,5 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/dmca": "pages/dmca.js",
+  "/about": "pages/about.js",
   "/": "pages/index.js"
 }

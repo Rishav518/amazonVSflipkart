@@ -13,7 +13,7 @@ const nextConfig = {
          "webconsulting.ie", 
          "img.freepik.com",
         "www.digitalocean.com",
-        "landings-cdn.adsterratech.com"
+        "landings-cdn.adsterratech.com",
       ],
     },
   
